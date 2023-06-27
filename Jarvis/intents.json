@@ -1,0 +1,55 @@
+{
+    "intents": [
+        {
+            "tags": "greeting",
+            "patterns": ["hello","hii","jarvis","wake up","oi bhai"],
+            "responses": ["hello sir","hn bhai","how are you?","kesa h bhai","tere liye bhai hmesha","hello"]
+
+        },
+        {
+            "tags": "bye",
+            "patterns": ["bye","good bye","see you later","sleep","exit"],
+            "responses": ["bye sir","I am Going","Bye.","It'll be nice to talk you again","see you later"]
+            
+        },
+        {
+            "tags": "health",
+            "patterns": ["how are you","how you","are you fine","are you good"],
+            "responses": ["fine","perfect","cool","i am good","sexy af","i am good what about you"]
+            
+        },
+        {
+            "tags": "time",
+            "patterns": ["whats is time","time","samay","whats the time"],
+            "responses": ["time"]
+            
+        },
+        {
+            "tags": "date",
+            "patterns": ["whats is date","date","tareek","whats is todays date"],
+            "responses": ["date"]
+            
+        },
+        {
+            "tags": "day",
+            "patterns": ["whats is todays day","day","din","whats is today"],
+            "responses": ["day"]
+            
+        },
+        {
+            "tags": "wikipedia",
+            "patterns": ["who is","about","what is","explain","wikipedia"],
+            "responses": ["wikipedia"]
+            
+        },
+        {
+            "tags": "google",
+            "patterns": ["who is","about","what is","explain","search","google search"],
+            "responses": ["google"]
+            
+        }
+
+
+    ]
+}
+
